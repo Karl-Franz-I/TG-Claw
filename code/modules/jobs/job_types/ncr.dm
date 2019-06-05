@@ -356,6 +356,7 @@ Veteran Ranger
 	supervisors = "Lieutenants and above"
 	selection_color = "#ffeeaa"
 	exp_requirements = 1500
+	flags_whitelist = WHITELIST_VETERAN_RANGER
 
 	outfit = /datum/outfit/job/ncr/f13vetranger
 
