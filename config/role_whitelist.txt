@@ -8,14 +8,7 @@
 # A lot of the defines are just placeholders for right now.
 
 ######################################################
-# +Yautja +Unblooded +Predator +Pred
-# +Yautja Blooded +Blooded +Blooded Predator
-# +Yautja Elite +Elite +Elite Predator
-# +Yautja Elder +Elder + Elder Predator
-# +Commander +CO
-# +Synthetic +Synth
-# +Arcturian +Snowflake
-# +All +Everything
+# +Veteran +Vet +Veteran Ranger
 #######################################################
 
 #Your_name_here				+All
