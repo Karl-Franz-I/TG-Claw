@@ -27,6 +27,10 @@
 
 	//How many players have this job
 	var/current_positions = 0
+	
+	//Only used by whitelisted roles. Can be a single whitelist flag, or a combination of them.
+	var/flags_whitelist = NOFLAGS
+
 
 	//Supervisors, who this person answers to directly
 	var/supervisors = ""
