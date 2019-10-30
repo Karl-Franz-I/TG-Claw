@@ -59,6 +59,7 @@
 /obj/item/clothing/neck/cloak/deathclaw
 	name = "deathclaw cloak"
 	icon_state = "goliath_cloak"
+	item_state = "goliath_cloak"
 	desc = "A staunch cloak made out of sinew and skin from the fearsome deathclaw, this one lacks the second layer of leather and hood, and shouldn't be counted on in a fight."
 	armor = list("melee" = 5, "bullet" = 5, "laser" = 5, "energy" = 0, "bomb" = 0, "bio" = 0, "rad" = 0, "fire" = 0, "acid" = 0)
 	body_parts_covered = CHEST|GROIN|ARMS
